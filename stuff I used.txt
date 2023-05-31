@@ -1,0 +1,11 @@
+Bootstrap
+JQuery
+
+/* animations */
+
+wOw.min.js - free to use - copyright in js - MIT License
+animate.css - free to use - copyright in css
+
+/* gallery */
+
+nivo-lightbox - free to use - copyright in js & css - MIT License

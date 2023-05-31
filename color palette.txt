@@ -1,0 +1,18 @@
+COMPLEMENTARY COLOR PALETTE
+
+A	#1F5294		DARK CYAN			hover / active / focus
+B	#69AAFF		LIGHT CYAN			links - 
+C	#4689E0		BLUR CYAN			primary - titles / highlights
+D	#946610		WOOD BROWN			 
+E	#E0AB46		WANNABE GOLD			
+
+
+MONOCHROME COLORS - 
+
+#111
+#333
+#444
+#888
+#999
+#fff
+#ddd

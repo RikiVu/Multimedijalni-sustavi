@@ -1,0 +1,4 @@
+adjust color levels
+exposure
+saturation
+color curves
